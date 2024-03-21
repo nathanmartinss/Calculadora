@@ -32,6 +32,6 @@ Este projeto é para fins acadêmicos na faculdade de engenharia de Sorocaba (FA
 - ### Implementado o framework JUNIT para testes.
 - ### Exclusão da classe de teste anterior.
 
-- ## Versão anterior: 1.0
+## Versão anterior: 1.0
 
 # 2024 © Todos os direitos reservados pelo autor.
