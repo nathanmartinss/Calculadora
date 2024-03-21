@@ -1,4 +1,3 @@
-
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -15,12 +14,12 @@ public class CalculadoraJunitTeste {
         //Cenário de Teste de Soma 1: A soma correta é 10, porém no teste ele está esperando 12, o teste vai dar erro.
         int somar = calc.soma(3, 7);
         System.out.println("Soma: \n" + somar);
-        assertEquals (10, somar);
+        assertEquals(12, somar);
 
         //Cenário de Teste de Soma 2: A soma correta é 7 e no teste ele está esperando 7, o teste vai passado com sucesso.
         somar = calc.soma(2, 5);
         System.out.println("Soma: \n" + somar);
-        assertEquals (7, somar);
+        assertEquals(7, somar);
 
         //Cenário de Teste de Subtração 1: Subtração de dois números.
         int subtracao = calc.subtracao(15, 5);
@@ -28,26 +27,6 @@ public class CalculadoraJunitTeste {
 
         //Cenário de Teste de Subtração 2: Subtração de dois números, sendo um número negativo.
         subtracao = calc.subtracao(-15, 15);
-        System.out.println(subtracao);
-
-        //Cenário de Teste de Subtração 3: Subtração de dois números, sendo dois números negativos.
-        subtracao = calc.subtracao(-2, -3);
-        System.out.println(subtracao);
-
-        //Cenário de Teste de Subtração 4: Subtração de dois números, sendo ambos zerp.
-        subtracao = calc.subtracao(0, 0);
-        System.out.println(subtracao);
-
-        //Cenário de Teste de Subtração 5: Subtração de dois números.
-        subtracao = calc.subtracao(54, 2);
-        System.out.println(subtracao);
-
-        //Cenário de Teste de Subtração 6: Subtração de dois números.
-        subtracao = calc.subtracao(410, 3);
-        System.out.println(subtracao);
-
-        //Cenário de Teste de Subtração 7: Subtração de dois números.
-        subtracao = calc.subtracao(2, 580);
         System.out.println(subtracao);
 
         //Cenário de Teste de Multiplicação 1: Multiplicação de dois números.
