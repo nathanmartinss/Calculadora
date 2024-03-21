@@ -1,5 +1,7 @@
+//Faz a importação do framework Junit.
 import org.junit.Test;
 
+//Faz a importação do Assert do framework Junit.
 import static org.junit.Assert.assertEquals;
 
 /**
