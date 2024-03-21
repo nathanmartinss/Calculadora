@@ -1,7 +1,7 @@
 # Projeto Calculadora
 
 # Sobre o Projeto
-Este é um projeto acadêmico desenvolvido por Nathan. O objetivo principal do projeto é criar uma classe de Calculadora e testa-la com metódo JUNIT.
+Este é um projeto acadêmico desenvolvido por Nathan. O objetivo principal do projeto é criar uma classe de Calculadora e testa-la.
 
 # Principais Funcionalidades
 
