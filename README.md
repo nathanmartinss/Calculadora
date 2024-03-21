@@ -26,12 +26,9 @@ Se você deseja contribuir para este projeto, por favor, sinta-se à vontade par
 # Licença
 Este projeto é para fins acadêmicos na faculdade de engenharia de Sorocaba (FACENS). 
 
-# <img src="https://cdn-icons-png.flaticon.com/256/3098/3098186.png" width="28" height="28"/> Versão atual: 1.1
-- ### Foi feito uma branch chamada JUNIT para testes com o framework JUNIT.
-- ### O código foi totalmente comentado e explicado todos os passos do teste.
-- ### Implementado o framework JUNIT para testes.
-- ### Exclusão da classe de teste anterior.
+# <img src="https://cdn-icons-png.flaticon.com/256/3098/3098186.png" width="28" height="28"/> Versão atual: 1.0
+- ### Criada a classe calculadora com as opções de soma, subtração, multiplicação e divisão.
+- ### Criada a classe de testes da calculadora.
 
-## Versão anterior: 1.0
 
 # 2024 © Todos os direitos reservados pelo autor.
